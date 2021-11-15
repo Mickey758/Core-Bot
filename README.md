@@ -5,6 +5,9 @@ This bot was made to be a public generator bot but because of discord, our growt
 
 I hope you enjoy
 
+Join the support server if u need help:
+[discord](https://discord.gg/cuB4ahGEBM)
+
 # How To Use?
 Install the requirements
 
